@@ -1,0 +1,100 @@
+[
+  {
+    "qName": "0",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Sheet1$"
+    ]
+  },
+  {
+    "qName": "Age",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Sheet1$"
+    ]
+  },
+  {
+    "qName": "Country",
+    "qTags": [
+      "$ascii",
+      "$text",
+      "$geoname",
+      "$relates_Sheet1$.Country_GeoInfo"
+    ],
+    "qSrcTables": [
+      "Sheet1$"
+    ]
+  },
+  {
+    "qName": "Date",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Sheet1$"
+    ]
+  },
+  {
+    "qName": "First Name",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sheet1$"
+    ]
+  },
+  {
+    "qName": "Gender",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sheet1$"
+    ]
+  },
+  {
+    "qName": "Id",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Sheet1$"
+    ]
+  },
+  {
+    "qName": "Last Name",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Sheet1$"
+    ]
+  },
+  {
+    "qIsHidden": true,
+    "qName": "Sheet1$.Country_GeoInfo",
+    "qTags": [
+      "$ascii",
+      "$text",
+      "$hidden",
+      "$geopolygon",
+      "$relates_Country"
+    ],
+    "qSrcTables": [
+      "Sheet1$"
+    ]
+  }
+]

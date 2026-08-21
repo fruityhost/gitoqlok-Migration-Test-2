@@ -1,0 +1,27 @@
+{
+  "qInfo": {
+    "qId": "afed9a50-e734-45fd-9ef0-c6342cd3d737",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Last Name"
+    ],
+    "qFieldLabels": [
+      "Last Name"
+    ],
+    "qAlias": "Last Name",
+    "title": "Last Name",
+    "coloring": {
+      "colorMapRef": "PLVNbP",
+      "changeHash": "0.24425458766473285",
+      "hasValueColors": false
+    }
+  },
+  "qMetaDef": {
+    "title": "Last Name",
+    "description": "",
+    "tags": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "zKpeBma",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Count People Aged 30 or Older",
+    "qDef": "Count({<Age={\">=30\"}>} Id)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "Count People Aged 30 or Older",
+    "description": "",
+    "tags": []
+  }
+}

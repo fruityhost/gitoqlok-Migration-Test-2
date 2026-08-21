@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "QpsmKMW",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Count Females from the United States",
+    "qDef": "Count({<Gender={'Female'}, Country={'United States'}>} Id)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "Count Females from the United States",
+    "description": "",
+    "tags": []
+  }
+}

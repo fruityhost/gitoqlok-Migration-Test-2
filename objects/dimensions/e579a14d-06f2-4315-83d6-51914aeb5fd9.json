@@ -1,0 +1,27 @@
+{
+  "qInfo": {
+    "qId": "e579a14d-06f2-4315-83d6-51914aeb5fd9",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Date.autoCalendar.Month"
+    ],
+    "qFieldLabels": [
+      "Date.Month"
+    ],
+    "qAlias": "Date.Month",
+    "title": "Date.Month",
+    "coloring": {
+      "colorMapRef": "PLVNbP",
+      "changeHash": "0.8473130267855624",
+      "hasValueColors": false
+    }
+  },
+  "qMetaDef": {
+    "title": "Date.Month",
+    "description": "",
+    "tags": []
+  }
+}

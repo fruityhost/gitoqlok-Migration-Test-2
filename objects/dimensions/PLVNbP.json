@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "PLVNbP",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Date.autoCalendar.Year"
+    ],
+    "qFieldLabels": [
+      "Date.Year"
+    ],
+    "qAlias": "Date.Year",
+    "title": "Date.Year",
+    "coloring": {
+      "changeHash": "0.8852610163134277",
+      "hasValueColors": false
+    }
+  },
+  "qMetaDef": {
+    "title": "Date.Year",
+    "description": "",
+    "tags": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "qInfo": {
+    "qId": "ec49db50-cc59-442f-9a4f-c2615ea820ae",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Date.autoCalendar.Week"
+    ],
+    "qFieldLabels": [
+      "Date.Week"
+    ],
+    "qAlias": "Date.Week",
+    "title": "Date.Week",
+    "coloring": {
+      "colorMapRef": "PLVNbP",
+      "changeHash": "0.618162893785133",
+      "hasValueColors": false
+    }
+  },
+  "qMetaDef": {
+    "title": "Date.Week",
+    "description": "",
+    "tags": []
+  }
+}
